@@ -1,0 +1,36 @@
+body {
+    font-family: 'Poiret One', cursive;
+}
+
+header {
+    background: #d4a0a7;
+    padding: 5px 0;
+}
+
+.caixa {
+    position: relative;
+    margin: 10px 10px;
+}
+
+nav {
+    display: inline;
+    position: absolute;
+    top: 50px;
+    right: 200px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 50px;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.item-menu:hover {
+    text-decoration: underline wavy #A23B72;
+    cursor: pointer;
+    font-weight: bolder;
+    font-size: 20px;
+}
+

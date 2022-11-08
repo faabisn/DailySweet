@@ -1,0 +1,171 @@
+main {
+    background-image: linear-gradient(180deg, #d4a0a7 34%, #7d938a 71%);
+}
+
+h1 {
+    text-align: top;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+h3:hover {
+    transform:scale(1.1);
+    text-shadow: 2px 3px #d8c4ce;
+}
+
+.titulo-principal {
+    padding: 10px 0 20px 0;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.bolo {
+    width: 50%;
+    min-width: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.imagem-bolo {
+    position: relative;
+    width: 20%;
+    align-self: top;
+    margin-top: 30px;
+}
+
+.descricao-bolo {
+    display: inline;
+    position: absolute;
+    margin: 60px 0 0 30px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.brownie {
+    width: 50%;
+    min-width: 250px;
+    vertical-align: top;
+    float:right;
+    padding-bottom: 0px;
+}
+
+.imagem-brownie {
+    position: relative;
+    width: 15%;
+    align-self: top;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.descricao-brownie {
+    display: inline;
+    position: absolute;
+    margin: 60px 0 0 58px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.tiramisu {
+    width: 50%;
+    min-width: 250px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+}
+
+.imagem-tiramisu {
+    position: relative;
+    width: 20%;
+    align-self: top;
+    margin-top: 100px;
+}
+
+.descricao-tiramisu {
+    display: inline;
+    position: absolute;
+    margin: 100px 0 0 30px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.torta {
+    width: 50%;
+    min-width: 250px;
+    vertical-align: top;
+    float:right;
+    margin-top: 10px;
+}
+
+.imagem-torta {
+    position: relative;
+    width: 18%;
+    align-self: top;
+    margin-top: 100px;
+}
+
+.descricao-torta {
+    display: inline;
+    position: absolute;
+    margin: 100px 0 0 30px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.chocotone {
+    width: 50%;
+    min-width: 250px;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 0px;
+}
+
+.imagem-chocotone {
+    position: relative;
+    width: 18%;
+    align-self: top;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+.descricao-chocotone {
+    display: inline;
+    position: absolute;
+    margin: 100px 0 0 50px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.donut {
+    width: 50%;
+    min-width: 250px;
+    display: inline-block;
+    vertical-align: top;
+    float:right;
+    position:absolute;
+    margin-top: 10px;
+}
+
+.imagem-donut {
+    position: relative;
+    width: 20%;
+    align-self: top;
+    margin-top: 100px;
+}
+
+.descricao-donut {
+    display: inline-block;
+    position: absolute;
+    margin: 100px 0 0 10px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+
+
+
+
