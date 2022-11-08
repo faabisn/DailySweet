@@ -12,5 +12,4 @@ O protótipo feito no Figma inicial:
 
 A página inicial:
 
-![Daily Sweet](https://user-images.githubusercontent.com/112431842/200701181-8c2065a8-55eb-4872-8be5-06c39104e749.png)
-
+![Daily Sweet](https://user-images.githubusercontent.com/112431842/200702065-f3157812-97fd-4229-bad7-2a7e0e7653ed.png)
