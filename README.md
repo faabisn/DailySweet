@@ -2,7 +2,9 @@
 
 💖 Daily Sweet é uma Landing Page de uma doceria com as melhores guloseimas do mundo! 
 
-🎨 Desenhei o protótipo no Figma (inclusive a logo que achei fofa rs) de acordo com o que eu queria e utilizei HTML5 e CSS3. 
+🎨 Desenhei o protótipo de média fidelidade no Figma (inclusive a logo que achei fofa rs).
+ 
+🌟 Utilizei HTML5 e CSS3. 
 
 💻 Conforme vou avançando em meus estudos, pretendo ir melhorando e acrescentando mais funcionalidades.
 
